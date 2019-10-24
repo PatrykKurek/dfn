@@ -1,0 +1,25 @@
+.dane_input {
+  width: 30vh;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 3px;
+  border-color: aqua;
+}
+
+.data_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.rows {
+  width: 50%;
+  height: 90%;
+}
+
+.rezerwacja {
+  width: 50%;
+  height: 90%;
+}
+/*# sourceMappingURL=admin.css.map */

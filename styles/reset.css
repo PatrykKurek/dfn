@@ -1,0 +1,31 @@
+﻿body {
+}
+
+html, body, div, span, 
+h1, h2, h3, h4, h5, h6, p, 
+a, 
+ img,
+ footer, header,
+menu, nav, output,section,
+time, mark, audio, video {
+	border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    margin: 0 0 0px 0;
+    padding: 0;
+    vertical-align: baseline;
+    text-align: center;
+    top: 50px;
+    left: 397px;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
